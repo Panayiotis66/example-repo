@@ -3,7 +3,7 @@ Float Manipulation
 
 # Description
 
-This program requests 10 numbers from the user which are temportarily stored in a list.
+This program requests 10 numbers from the user which are temportarily stored in a list.\t
 The program then uses the 10 numbers inserted by the user to carry out the following tasks:
       1.  Find the total of all the numbers and print the result. 
       2.  Find the index of the maximum and print the result. 
